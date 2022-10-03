@@ -7,7 +7,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://livethelife.tv/">LiveTheLifeTV</a>!
+          Wen <a href="https://livethelife.tv/">Berachain Ser</a>!
         </h1>
 
         <p className={styles.description}>
